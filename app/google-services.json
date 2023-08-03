@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416684799020",
+    "project_id": "lingualink-92ce6",
+    "storage_bucket": "lingualink-92ce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416684799020:android:ca076e2dfa8438a2ab4d89",
+        "android_client_info": {
+          "package_name": "com.example.lingualink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416684799020-vkht8gu34eoojkipogn42uk8ctins4vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lingualink",
+            "certificate_hash": "f4015ee75189db336dc3d9cec98ab8a3b4a3cea2"
+          }
+        },
+        {
+          "client_id": "416684799020-oqhnlalibdgd9ks5f6c72n23ajjrbple.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgroxWVcqLSvNUOD0-YEpFPaUQoapm-1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416684799020-oqhnlalibdgd9ks5f6c72n23ajjrbple.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
